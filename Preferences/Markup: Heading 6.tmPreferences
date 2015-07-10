@@ -9,9 +9,9 @@
 	<key>settings</key>
 	<dict>
 		<key>fontName</key>
-		<string>Baskerville</string>
+		<string>Raleway</string>
 		<key>fontSize</key>
-		<string>1.1em</string>
+		<string>1.25em</string>
 	</dict>
 	<key>uuid</key>
 	<string>F671DCFB-45A3-4B37-BD5B-FD7F8D12B35F</string>
